@@ -177,7 +177,7 @@ export default function Home() {
         <DevfolioPrizes />
         <Rules />
         <Tracks />
-        <Sponsors />
+        //<Sponsors />
         <FAQ />
         <Footer />
         
