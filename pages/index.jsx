@@ -4,6 +4,7 @@ import {
   About,
   Main,
   Navbar,
+  Sponsors,
   Tracks,
   Rules,
   Timeline,
