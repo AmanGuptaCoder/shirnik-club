@@ -8,7 +8,7 @@ export const Rules = () => {
       </h1>
       <div className="mx-4 md:my-12">
         <ul className="pl-10 text-xl font-Mori list-disc flex flex-col gap-4 max-w-3xl mx-auto leading-7 text-white/80">
-          <li>Each team can have a minimum of 2 and maximum of 5 members</li>
+          <li>Each team can have a minimum of 2 and maximum of 4 members</li>
           <li>
             Each team should have one team leader, who will be responsible for
             forwarding all necessary information to his/her team.
