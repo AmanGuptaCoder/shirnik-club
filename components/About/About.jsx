@@ -7,7 +7,7 @@ export const About = () => {
     
     <div className="flex flex-col gap-8 max-w-7xl mx-auto">
       
-      <AboutRow heading={"what is HackGLB'23?"} img={""}>
+      <AboutRow heading={"what is HackGLB'23?"}>
         <p>
           Our hackathon, HACKGLB is ready for it&apos;s 2023 edition. It is an
           exciting learning opportunity for students who are passionate about
