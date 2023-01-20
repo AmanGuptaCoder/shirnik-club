@@ -9,7 +9,6 @@ import {
   Timeline,
   Footer,
   FAQ,
-  DevfolioPrizes,
   Prizes,
 } from "../components";
 
@@ -174,7 +173,7 @@ export default function Home() {
         
         <Timeline />
         <Prizes />
-        <DevfolioPrizes />
+      
         <Rules />
         <Tracks />
         <FAQ />
