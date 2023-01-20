@@ -25,7 +25,7 @@ export const Footer = () => {
           <span className="text-sm">powered by</span>
           <div className="flex items-center gap-1">
             
-            <p>SHRINIKCLUB | GLBITM</p>
+            <p>SHRINIK CLUB | GLBITM</p>
           </div>
         </div>
       </div>
