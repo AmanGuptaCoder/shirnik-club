@@ -4,7 +4,7 @@ import {
   About,
   Main,
   Navbar,
-  Sponsors,
+  //Sponsors,
   Tracks,
   Rules,
   Timeline,
@@ -178,7 +178,6 @@ export default function Home() {
         <DevfolioPrizes />
         <Rules />
         <Tracks />
-        //<Sponsors />
         <FAQ />
         <Footer />
         
