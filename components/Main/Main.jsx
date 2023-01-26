@@ -47,7 +47,7 @@ export const Main = () => {
                     <Image
                         src={Logo}
                         
-            height={300}
+            height={280}
             width={250}
                         className=""
                         alt={'Green Saber'}
