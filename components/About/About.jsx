@@ -5,7 +5,7 @@ import MainImage from "../../public/images/main-img.png";
 export const About = () => {
   return (
     
-    <div className="flex flex-col gap-15 max-w-7xl mx-auto">
+    <div className="flex flex-col gap-20 max-w-7xl mx-auto">
       
       
       <AboutRow
