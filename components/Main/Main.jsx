@@ -80,6 +80,11 @@ export const Main = () => {
           
         </div>
         
+        <div className="flex flex-wrap justify-center my-6 gap-1">
+         <a href="https://www.google.com/"> <JoinDiscordBtn /></a>
+          
+          
+        </div>
         
       <div className="hidden-lg">
       
