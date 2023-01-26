@@ -35,7 +35,7 @@ export default function Home() {
           src="https://plausible.io/js/plausible.js"
         ></script>
       </Head>
-      <div className="flex flex-col gap-1">
+      <div className="flex flex-col gap-5">
       <div class="page-bg"></div>
         <Navbar />
         
