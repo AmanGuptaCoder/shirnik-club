@@ -47,8 +47,8 @@ export const Main = () => {
                     <Image
                         src={Logo}
                         
-            height={280}
-            width={250}
+            height={200}
+            width={200}
                         className=""
                         alt={'Green Saber'}
                         style={{ alignSelf: 'center' }}
