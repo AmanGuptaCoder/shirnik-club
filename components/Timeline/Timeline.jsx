@@ -93,18 +93,18 @@ export const Timeline = () => {
             
             <TimelineCard
               heading={"Breakfast"}
-              timing={"7:00 PM to 8:00 PM"}
+              timing={"7:00 AM to 8:00 AM"}
               dotColor={"bg-[#FFFFFF]"}
             />
             
             <TimelineCard
               heading={"Final Submission"}
-              timing={"10:00 PM to 11:00 PM"}
+              timing={"10:00 AM to 11:00 AM"}
               dotColor={"bg-[#FFFFFF]"}
             />
             <TimelineCard
               heading={"Final Round of Judging"}
-              timing={"11:00 PM to 1:00 PM"}
+              timing={"11:00 AM to 1:00 PM"}
               dotColor={"bg-[#FFFFFF]"}
             />
             <TimelineCard
