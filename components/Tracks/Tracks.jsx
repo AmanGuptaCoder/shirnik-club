@@ -31,25 +31,12 @@ export const Tracks = () => {
           />
         </div>
         <div className="flex flex-wrap justify-center p-4 gap-10">
-          <Trackcard
-            headingBg={"bg-white-500"}
-            borderBg={"border-white-500"}
-            text="Blockchain"
-            para="All the tech and investment nerds must have gone through this term once in their recent days, it is a technology which has a lot to explore and hold a potential for overhaul transformation of current data processing and managing process."
-          />
+          
           <Trackcard
             headingBg={"bg-white-500"}
             borderBg={"border-white-500"}
             text="Entertainment"
             para="The Entertainment track promotes the use of technology as a means of expression, encouraging hackers to explore the ways that we create, consume, and share content. Projects in this track will make the most of hackers’ interdisciplinary skills, perhaps by incorporating music, graphics, and other creative mediums, as well as keeping the user at the forefront of design."
-          />
-        </div>
-        <div className="flex flex-wrap justify-center p-4 gap-10">
-          <Trackcard
-            headingBg={"bg-white-500"}
-            borderBg={"border-white-500"}
-            text="Web3"
-            para="Web3 is need of Future. Blockchain and Cryptocurrency have been in the limelight for a while now. However, Web3 is a much larger field that aims to improve financial services by using software and emerging tech solutions."
           />
           <Trackcard
             headingBg={"bg-white-500"}
