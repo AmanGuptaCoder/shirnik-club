@@ -29,13 +29,13 @@ export const Timeline = () => {
           >
             <TimelineCard
               heading={"Registration Starts"}
-              timing={"20th January, 2023"}
+              timing={"1st Feb 2023"}
               dotColor={"bg-[#FFFFFF]"}
               E94336
             />
             <TimelineCard
               heading={"Registration Ends"}
-              timing={"8th February, 2023"}
+              timing={"20th Feb 2023"}
               dotColor={"bg-[#FFFFFF]"}
             />
           </motion.ol>
@@ -48,7 +48,7 @@ export const Timeline = () => {
             viewport={{ once: true, amount: 0.4 }}
             className="relative border-l border-gray-200"
           >
-            <TimelineDay day={1} date={"10th February, 2023"} />
+            <TimelineDay day={1} date={"14th Feb 2023"} />
             <TimelineCard
               heading={"Team Check-In and Opening Ceremony"}
               timing={"9:00 AM to 10:00 AM"}
@@ -72,7 +72,7 @@ export const Timeline = () => {
               dotColor={"bg-[#FFFFFF]"}
             />
             <TimelineCard
-              heading={"Top 50 Team Announcement"}
+              heading={"Top 40 Team Announcement"}
               timing={"5:30 PM to 6:00 PM"}
               dotColor={"bg-[#FFFFFF]"}
             />
@@ -88,7 +88,7 @@ export const Timeline = () => {
               timing={"9:00 PM onwards"}
               dotColor={"bg-[#FFFFFF]"}
             />
-            <TimelineDay day={2} date={"11th February, 2023"} />
+            <TimelineDay day={2} date={"25th Feb 2023"} />
             
             
             <TimelineCard
