@@ -72,7 +72,7 @@ export const Main = () => {
           Think. Build. Innovate.
         </h1>
         <h1 className="text-center text-glow text-lg mb-4 md:text-3xl font-semibold">
-          Feb 10th - 11th, 2023 &#x2022; GLBITM
+          Feb 24th - 25th, 2023 &#x2022; GLBITM
         </h1>
         <div className="flex flex-wrap justify-center my-6 gap-1">
          <a href="https://www.glbitm.org/"> <ApplyWithDevfolioBtn /></a>
