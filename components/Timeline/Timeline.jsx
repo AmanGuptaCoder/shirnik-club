@@ -48,7 +48,7 @@ export const Timeline = () => {
             viewport={{ once: true, amount: 0.4 }}
             className="relative border-l border-gray-200"
           >
-            <TimelineDay day={1} date={"14th Feb 2023"} />
+            <TimelineDay day={1} date={"24th Feb 2023"} />
             <TimelineCard
               heading={"Team Check-In and Opening Ceremony"}
               timing={"9:00 AM to 10:00 AM"}
