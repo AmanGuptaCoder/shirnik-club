@@ -9,7 +9,7 @@ export const Timeline = () => {
     show: {
       opacity: 1,
       transition: {
-        staggerChildren: 0.35,
+        staggerChildren: 0.20,
       },
     },
   };
