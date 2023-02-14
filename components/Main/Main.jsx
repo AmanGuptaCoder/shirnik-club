@@ -69,7 +69,7 @@ export const Main = () => {
                     />
        
         <h1 className="text-center text-glow text-lg mb-4 md:text-2xl font-semibold">
-          Think. Build. Innovate.
+          Think Build Innovate
         </h1>
         <h1 className="text-center text-glow text-lg mb-4 md:text-3xl font-semibold">
           Feb 24th - 25th, 2023 &#x2022; GLBITM
