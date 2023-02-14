@@ -19,7 +19,7 @@ export const Timeline = () => {
         timeline
       </h1>
       <div>
-        <div className="text-white mt-6 mx-auto">
+        <div className="text-white mt-6 mx-auto" id="timeline">
           <motion.ol
             initial="hidden"
             whileInView="show"
@@ -27,6 +27,7 @@ export const Timeline = () => {
             viewport={{ once: true, amount: 0.4 }}
             className="relative border-l border-gray-200"
           >
+              
             <TimelineCard
               heading={"Registration Starts"}
               timing={"1st Feb 2023"}
@@ -38,16 +39,6 @@ export const Timeline = () => {
               timing={"20th Feb 2023"}
               dotColor={"bg-[#FFFFFF]"}
             />
-          </motion.ol>
-        </div>
-        <div className="text-white mt-6 mx-auto" id="timeline">
-          <motion.ol
-            initial="hidden"
-            whileInView="show"
-            variants={container}
-            viewport={{ once: true, amount: 0.4 }}
-            className="relative border-l border-gray-200"
-          >
             <TimelineDay day={1} date={"24th Feb 2023"} />
             <TimelineCard
               heading={"Team Check-In and Opening Ceremony"}
