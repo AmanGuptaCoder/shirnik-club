@@ -10,6 +10,7 @@ import {
   Footer,
   FAQ,
   Prizes,
+  Sponsors
 } from "../components";
 
 export default function Home() {
@@ -173,7 +174,7 @@ export default function Home() {
         
         <Timeline />
         <Prizes />
-      
+      <Sponsors />
         <Rules />
         <Tracks />
         <FAQ />
