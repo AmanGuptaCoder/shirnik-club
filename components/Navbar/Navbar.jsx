@@ -66,7 +66,7 @@ export const Navbar = () => {
               />
             </a>
             <a
-              href="#special-prizes"
+              href="#prizes"
               className="group hover:text-white flex justify-between items-center border-b-2"
             >
               <div>Prizes</div>
