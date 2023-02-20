@@ -35,21 +35,7 @@ export const Footer = () => {
           &copy; 2023 SHRINIK CLUB. All Rights Reserved.
         </div>
         <div className="flex flex-wrap gap-2">
-          <a
-            href="https://twitter.com/shrinik_glbajaj"
-            target="_blank"
-            rel="noreferrer"
-            className="flex items-center w-fit rounded-full p-2 border-2 border-white"
-          >
-            <Image
-              src={Twitter}
-              loading={"lazy"}
-              width={20}
-              height={20}
-              alt="twitter-logo"
-            />
-          </a>
-          <a
+                    <a
             href="https://instagram.com/shrinik_glbajaj"
             target="_blank"
             rel="noreferrer"
@@ -91,6 +77,21 @@ export const Footer = () => {
               alt="email-logo"
             />
           </a>
+          <a
+            href="https://twitter.com/shrinik_glbajaj"
+            target="_blank"
+            rel="noreferrer"
+            className="flex items-center w-fit rounded-full p-2 border-2 border-white"
+          >
+            <Image
+              src={Twitter}
+              loading={"lazy"}
+              width={20}
+              height={20}
+              alt="twitter-logo"
+            />
+          </a>
+
         </div>
       </div>
     </div>
