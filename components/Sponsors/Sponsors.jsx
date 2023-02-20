@@ -21,6 +21,14 @@ export const Sponsors = () => {
             { name: "replit", url: "https://replit.com/" },
           ]}
         />
+            
+        <SponsorRow
+          imgArr={[
+            { name: "xyz Domain", url: "https://gen.xyz/" },
+            { name: "wolfram", url: "https://www.wolfram.com/" },
+           
+          ]}
+        />
       </div>
     </section>
   );
