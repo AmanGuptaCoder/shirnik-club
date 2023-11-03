@@ -4,7 +4,7 @@ export const ApplyWithDevfolioBtn = () => {
   return (
     <div
       className="apply-button"
-      data-hackathon-slug="HACKGLB"
+      data-hackathon-slug="Fin-X-Thon"
       
       data-button-theme="light"
       style={{ height: "44px", width: "312px" }}

@@ -2,7 +2,7 @@
 import Image from "next/image";
 import React from "react";
 import { ApplyWithDevfolioBtn } from "../ApplyWithDevfolioBtn/ApplyWithDevfolioBtn";
-import Logo from "../../public/images/hackglb.png";
+import Logo from "../../public/images/Fin-X-Thon.png";
 import Pogo from "../../public/images/logo2.png";
 import DevfolioWhite from "../../public/images/devfolio-white.svg";
 import MainImage from "../../public/images/main-img.png";

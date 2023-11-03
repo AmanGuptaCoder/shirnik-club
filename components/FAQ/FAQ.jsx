@@ -9,7 +9,7 @@ export const FAQ = () => {
       </h1>
       <div className="mx-auto rounded-2xl transition-all delay-100 ease-in my-12">
         <DisclosureComponent
-          heading={"Where and how to register for HackGLB '23?"}
+          heading={"Where and how to register for Fin-X-Thon '23?"}
         >
           <p>Registrations are being accepted via the Devfolio website.</p>
         </DisclosureComponent>
@@ -17,13 +17,13 @@ export const FAQ = () => {
           heading={"Do I need to pay a registration fee for the hackathon?"}
         >
           <p>
-            Like all our other events, HackGLB is also free-of-cost and you
+            Like all our other events, Fin-X-Thon is also free-of-cost and you
             don’t need to pay anything to register for it. We plan to keep all
             of our future events free too.
           </p>
         </DisclosureComponent>
         <DisclosureComponent
-          heading={"Can students outside GLBITM participate in HackGLB '23?"}
+          heading={"Can students outside GLBITM participate in Fin-X-Thon '23?"}
         >
           <p>
             Yes, this hackathon is for students studying in any college.
@@ -31,7 +31,7 @@ export const FAQ = () => {
         </DisclosureComponent>
         <DisclosureComponent
           heading={
-            "Are there any solo events under HackGLB '23 or do I need to team up?"
+            "Are there any solo events under Fin-X-Thon '23 or do I need to team up?"
           }
         >
           <p>
@@ -53,7 +53,7 @@ export const FAQ = () => {
         </DisclosureComponent>
         <DisclosureComponent
           heading={
-            "Can HackGLB '23 environment allow us to code in any language or will there be an IDE and  DB provided to us?"
+            "Can Fin-X-Thon '23 environment allow us to code in any language or will there be an IDE and  DB provided to us?"
           }
         >
           <p>

@@ -9,18 +9,18 @@ export const About = () => {
       
       
       <AboutRow
-        heading={"About HACKGLB 1.0| GLBITM"}
+        heading={"About Fin-X-Thon 1.0| GLBITM"}
         img={"./images/gl.png"}
         isReverse
       >
              <p>
-          Our hackathon, HACKGLB is ready for it&apos;s 2023 edition. It is an
+          Our hackathon, Fin-X-Thon is ready for it&apos;s 2023 edition. It is an
           exciting learning opportunity for students who are passionate about
           technology and are interested in solving real-world problems with
           cutting-edge solutions.
         </p>
         <p>
-          With the first edition of HACKGLB &apos;23, we&apos;re
+          With the first edition of Fin-X-Thon &apos;23, we&apos;re
           hoping to see much more innovative, improved and effective solutions
           to the issues at hand and share them with the rest of the world by
           bringing back the community of student developers together yet again.

@@ -28,7 +28,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>HACKGLB 23 | Hackathon</title>
+        <title>Fin-X-Thon 23 | Hackathon</title>
         <link rel="shortcut icon" href="./favicon.ico" type="image/x-icon" />
         <script
           defer
