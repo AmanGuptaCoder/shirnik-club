@@ -25,14 +25,14 @@ export const Footer = () => {
           <span className="text-sm">powered by</span>
           <div className="flex items-center gap-1">
             
-            <p>SHRINIK CLUB | GLBITM</p>
+            <p>Q2 Company | GLBITM</p>
           </div>
         </div>
       </div>
       <div className="w-full h-[1px] bg-gray-400 my-4"></div>
       <div className="flex flex-wrap gap-4 justify-between items-center">
         <div className="text-white font-medium">
-          &copy; 2023 SHRINIK CLUB. All Rights Reserved.
+          &copy; 2023 8bitchips. All Rights Reserved.
         </div>
         <div className="flex flex-wrap gap-2">
                     <a
