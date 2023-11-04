@@ -30,16 +30,16 @@ export const Timeline = () => {
               
             <TimelineCard
               heading={"Registration Starts"}
-              timing={"1st Feb 2023"}
+              timing={"4th Nov 2023"}
               dotColor={"bg-[#FFFFFF]"}
               E94336
             />
             <TimelineCard
               heading={"Registration Ends"}
-              timing={"20th Feb 2023"}
+              timing={"25th Nov 2023"}
               dotColor={"bg-[#FFFFFF]"}
             />
-            <TimelineDay day={1} date={"24th Feb 2023"} />
+            <TimelineDay day={1} date={"29th Nov 2023"} />
             <TimelineCard
               heading={"Team Check-In and Opening Ceremony"}
               timing={"9:00 AM to 10:00 AM"}
@@ -63,12 +63,12 @@ export const Timeline = () => {
               dotColor={"bg-[#FFFFFF]"}
             />
             <TimelineCard
-              heading={"Top 40 Team Announcement"}
+              heading={"Top 10 Team Announcement"}
               timing={"5:30 PM to 6:00 PM"}
               dotColor={"bg-[#FFFFFF]"}
             />
             
-            <TimelineCard
+            {/* <TimelineCard
               heading={"Dinner"}
               timing={"8:00 PM onwards"}
               dotColor={"bg-[#FFFFFF]"}
@@ -78,35 +78,35 @@ export const Timeline = () => {
               heading={"Mentoring Round"}
               timing={"9:00 PM onwards"}
               dotColor={"bg-[#FFFFFF]"}
-            />
-            <TimelineDay day={2} date={"25th Feb 2023"} />
+            /> */}
+            <TimelineDay day={2} date={"30th Nov 2023"} />
             
             
             <TimelineCard
-              heading={"Breakfast"}
-              timing={"7:00 AM to 8:00 AM"}
+              heading={"Team 10 Teams Check- In"}
+              timing={"9:00 AM to 10:00 AM"}
               dotColor={"bg-[#FFFFFF]"}
             />
             
             <TimelineCard
-              heading={"Final Submission"}
-              timing={"10:00 AM to 11:00 AM"}
+              heading={"Final Presentation"}
+              timing={"10:00 AM to 12:00 AM"}
               dotColor={"bg-[#FFFFFF]"}
             />
-            <TimelineCard
+            {/* <TimelineCard
               heading={"Final Round of Judging"}
               timing={"11:00 AM to 1:00 PM"}
               dotColor={"bg-[#FFFFFF]"}
-            />
+            /> */}
             <TimelineCard
               heading={"Felicitaion of Winners"}
-              timing={"2:00 PM to 3:00 PM"}
+              timing={"1:00 PM to 2:00 PM"}
               dotColor={"bg-[#FFFFFF]"}
             />
             
             <TimelineCard
               heading={"Hackathon Ends"}
-              timing={"4:00 PM"}
+              timing={"3:00 PM"}
               dotColor={"bg-[#FFFFFF]"}
             />
           </motion.ol>
