@@ -31,9 +31,9 @@ export const Navbar = () => {
           <a href="#special-prizes" className="border-b border-transparent hover:border-white">
             Prizes
           </a>
-          <a href="#sponsors" className="border-b border-transparent hover:border-white">
+          {/* <a href="#sponsors" className="border-b border-transparent hover:border-white">
             Sponsors
-          </a>
+          </a> */}
           <a href="#faqs" className="border-b border-transparent hover:border-white">
             FAQs
           </a>
@@ -79,7 +79,7 @@ export const Navbar = () => {
                 alt=""
               />
             </a>
-            <a
+            {/* <a
               href="#sponsors"
               className="group hover:text-white flex justify-between items-center border-b-2"
             >
@@ -92,7 +92,7 @@ export const Navbar = () => {
                 src={RightArrow}
                 alt=""
               />
-            </a>
+            </a> */}
             <a
               href="#faqs"
               className="group hover:text-white flex justify-between items-center border-b-2"

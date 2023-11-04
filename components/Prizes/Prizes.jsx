@@ -29,26 +29,25 @@ export const Prizes = () => {
         <PrizeCard
           bgColor={"bg-[#ffffff]"}
           heading={"Winner #1"}
-          amount={"15,000"}
+          amount={"150000"}
           img={"/images/trophy-gold.png"}
         />
         <PrizeCard
           bgColor={"bg-[#ffffff]"}
           heading={"Winner #2"}
-          amount={"7,000"}
+          amount={"100000"}
           img={"/images/trophy-silver.png"}
         />
         <PrizeCard
           bgColor={"bg-[#ffffff]"}
           heading={"Winner #3"}
-          amount={"5,000"}
+          amount={"50000"}
           img={"/images/trophy-bronze.png"}
         />
         
         <PrizeCard
           bgColor={"bg-[#ffffff]"}
-          heading={"Best Women Team"}
-          amount={"3,000"}
+          heading={"Goodies For Top 10 Teams"}
           img={"/images/trophy-bronze.png"}
         />
       </motion.div>
