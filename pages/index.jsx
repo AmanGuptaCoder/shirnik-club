@@ -174,7 +174,7 @@ export default function Home() {
         
         <Timeline />
         <Prizes />
-      <Sponsors />
+      {/* <Sponsors /> */}
         <Rules />
         <Tracks />
         <FAQ />
