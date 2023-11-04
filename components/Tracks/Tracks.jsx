@@ -9,7 +9,7 @@ export const Tracks = () => {
       </h1>
       <div className="flex flex-col my-12 flex-wrap gap-10">
         <div className="flex flex-wrap justify-center p-4 gap-10">
-          <Trackcard
+          {/* <Trackcard
             headingBg={"bg-white-500"}
             borderBg={"border-white-500"}
             text="Ed-Tech"
@@ -17,12 +17,12 @@ export const Tracks = () => {
 	
             This Hackathon is aimed at designing effective technology-enhanced solutions for learners all around the world. The expected outcome is to produce ideas and concepts with a high impact on society as well as ready-to-be-developed solutions. 
             "
-          />
+          /> */}
           <Trackcard
             headingBg={"bg-white-400"}
             borderBg={"border-white-400"}
             text="Fin-Tech"
-            para="This year we will looking at ecosystems of financial applications that are built on top of blockchain networks.
+            para="This year we will looking at ecosystems of financial applications that are built on custom llm Models.
 
             The main goal is to create an open-source, permissionless, and transparent financial service ecosystem that is available to everyone and operates without any central authority. In short, we can say it is available to everyone having internet connectivity.
             
@@ -30,7 +30,7 @@ export const Tracks = () => {
             "
           />
         </div>
-        <div className="flex flex-wrap justify-center p-4 gap-10">
+        {/* <div className="flex flex-wrap justify-center p-4 gap-10">
           
           <Trackcard
             headingBg={"bg-white-500"}
@@ -77,9 +77,9 @@ export const Tracks = () => {
             features.
             This year, we have 4 amazing challenges: Gameplay AR/VR Experience, Blockchain Integration, Gamers in Creation, Play to Earn"
           />
-        </div>
+        </div> */ }
       
-      </div>
+      </div> 
     </div>
   );
 };
