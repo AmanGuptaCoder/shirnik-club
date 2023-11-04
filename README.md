@@ -1,3 +1,3 @@
 
-This is the official website of SHRINIK CLUB HACKATHON WEBSITE
+This is the official website of FINXTHON HACKATHON WEBSITE
 

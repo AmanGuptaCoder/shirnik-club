@@ -32,11 +32,11 @@ export const Footer = () => {
       <div className="w-full h-[1px] bg-gray-400 my-4"></div>
       <div className="flex flex-wrap gap-4 justify-between items-center">
         <div className="text-white font-medium">
-          &copy; 2023 8bitchips. All Rights Reserved.
+          &copy; 2023 GLBITM. All Rights Reserved.
         </div>
         <div className="flex flex-wrap gap-2">
                     <a
-            href="https://instagram.com/shrinik_glbajaj"
+            href="https://instagram.com/"
             target="_blank"
             rel="noreferrer"
             className="flex items-center w-fit rounded-full p-2 border-2 border-white"
@@ -64,7 +64,7 @@ export const Footer = () => {
             />
           </a>
           <a
-            href="mailto:shrinikclub@glbitm.ac.in"
+            href="mailto:cs20190b@glbitm.ac.in"
             target="_blank"
             rel="noreferrer"
             className="flex items-center w-fit rounded-full p-2 border-2 border-white"
@@ -78,7 +78,7 @@ export const Footer = () => {
             />
           </a>
           <a
-            href="https://twitter.com/shrinik_glbajaj"
+            href="https://twitter.com/"
             target="_blank"
             rel="noreferrer"
             className="flex items-center w-fit rounded-full p-2 border-2 border-white"

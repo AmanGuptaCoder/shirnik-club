@@ -94,17 +94,17 @@ export const FAQ = () => {
           <p>
             Write to us at{" "}
             <a
-              href="mailto:shrinikclub@glbitm.ac.in"
+              href="mailto:cs20190@glbitm.ac.in"
               className="text-blue-400 hover:underline"
             >
-              shrinikclub@glbitm.ac.in
+              cs20190@glbitm.ac.in
             </a>{" "}
             or DM us at{" "}
             <a
               className="text-blue-400 hover:underline"
-              href="https://www.instagram.com/shrinik_glbajaj/"
+              href="https://www.instagram.com//"
             >
-              @shrinik_glbajaj
+              @Instagram
             </a>
           </p>
         </DisclosureComponent>
