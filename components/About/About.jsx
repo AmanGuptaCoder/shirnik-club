@@ -14,10 +14,9 @@ export const About = () => {
         isReverse
       >
              <p>
-          Our hackathon, Fin-X-Thon is ready for it&apos;s 2023 edition. It is an
-          exciting learning opportunity for students who are passionate about
-          technology and are interested in solving real-world problems with
-          cutting-edge solutions.
+          Our hackathon, Fin-X-Thon is ready for it&apos;s 2023 edition. 
+We invite you to imagine a world where everyone, everywhere had access to financial services that met their needs and helped them create better lives.
+
         </p>
         <p>
           With the first edition of Fin-X-Thon &apos;23, we&apos;re
