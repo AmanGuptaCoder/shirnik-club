@@ -24,10 +24,7 @@ We invite you to imagine a world where everyone, everywhere had access to financ
           to the issues at hand and share them with the rest of the world by
           bringing back the community of student developers together yet again.
         </p>
-        {/* <p>GL Bajaj Institute of Technology and Management is the 6th Institute established under the prestigious banner of Rajeev Memorial Academic Welfare Society (Registered Under Societies Registration Act 1860). The institute is approved by All India Council for Technical Education (AICTE), Ministry of HRD, Govt. of India and Affiliated to Dr. A.P.J. Abdul Kalam Technical University (Formerly UPTU Lucknow).
-
-GL Bajaj Institute of Technology and Management is one of the quality driven Educational Institute in the Greater Noida/Delhi-NCR Region. GL Bajaj stands out as one of the best engineering and management college in UP. It also stands out in its approach to assist and equip the students for their overall development, giving them a strong foundation for a successful future. The institute offers B.Tech, MBA and MCA programs.{" "}
-        </p> */}
+        { <p> The Event is Organised by Dapartment of Information Technology and Management,GLBITM and Q2 Software. </p> }
         
       </AboutRow>
     </div>
