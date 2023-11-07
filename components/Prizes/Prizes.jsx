@@ -45,12 +45,12 @@ export const Prizes = () => {
           img={"/images/trophy-bronze.png"}
         />
         
-        {/* <PrizeCard
+        * <PrizeCard
           bgColor={"bg-[#ffffff]"}
           heading={"Goodies For Top 10 Teams"}
           img={"/images/trophy-bronze.png"}
-        /> */}
-      </motion.div>
+        /> *
+              </motion.div>
     </div>
   );
 };
