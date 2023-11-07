@@ -12,13 +12,13 @@ export const Tracks = () => {
           { <Trackcard
             headingBg={"bg-white-500"}
             borderBg={"border-white-500"}
-            text="Fin-Tech"
+            text="Fin-Tech Theme 1"
             para="Business Innovation in Digital Banking leveraging the power of Data and AI"
           /> }
           <Trackcard
             headingBg={"bg-white-400"}
             borderBg={"border-white-400"}
-            text="Fin-Tech"
+            text="Fin-Tech Theme 2"
             para="Business innovation and Fintech integrations by leveraging the power of Q2 "
           />
         </div>
@@ -59,7 +59,7 @@ export const Tracks = () => {
           <Trackcard
             headingBg={"bg-white-500"}
             borderBg={"border-white-500"}
-            text="Fin-Tech"
+            text="Fin-Tech Theme 3"
             para="How to keep businesses safe and secure with next-gen fraud & risk management"
           />
         </div>  }

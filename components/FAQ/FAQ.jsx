@@ -11,7 +11,7 @@ export const FAQ = () => {
         <DisclosureComponent
           heading={"Where and how to register for Fin-X-Thon '23?"}
         >
-          <p>Registrations are being accepted via the Devfolio website.</p>
+          <p>Registrations are being accepted via the Devfolio and Unstop website.</p>
         </DisclosureComponent>
         <DisclosureComponent
           heading={"Do I need to pay a registration fee for the hackathon?"}
@@ -35,7 +35,7 @@ export const FAQ = () => {
           }
         >
           <p>
-            Team up! Each team can have a minimum of 2 and maximum of 4 members.
+            Team up! Each team can have a minimum of 1 and maximum of 3 members.
             Each team should have one team leader, who will be responsible for
             forwarding all necessary information to his/her team.
           </p>
@@ -72,7 +72,7 @@ export const FAQ = () => {
           heading={"Will there be a demonstration of my creation?"}
         >
           <p>
-            The top 20 teams, qualifying for the 2nd round will get the
+            The top 15 teams, qualifying for the 2nd round will get the
             opportunity to present their work/project to the judges.
           </p>
         </DisclosureComponent>
