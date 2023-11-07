@@ -24,7 +24,7 @@ We invite you to imagine a world where everyone, everywhere had access to financ
           to the issues at hand and share them with the rest of the world by
           bringing back the community of student developers together yet again.
         </p>
-        { <p> The Event is Organised by Dapartment of Information Technology and Management,GLBITM and Q2 Software. </p> }
+        { <p> This event is being organised by Department of Information Technology, GL Bajaj Institute of technology and management, in association with Q2 Software </p> }
         
       </AboutRow>
     </div>
