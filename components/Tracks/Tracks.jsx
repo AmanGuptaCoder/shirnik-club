@@ -9,25 +9,17 @@ export const Tracks = () => {
       </h1>
       <div className="flex flex-col my-12 flex-wrap gap-10">
         <div className="flex flex-wrap justify-center p-4 gap-10">
-          {/* <Trackcard
+          { <Trackcard
             headingBg={"bg-white-500"}
             borderBg={"border-white-500"}
-            text="Ed-Tech"
-            para="Whether you teach remotely, instruct in-person classes, or are still in the process of earning your teaching credential, edtech can enhance curriculum and facilitate better learning outcomes for students at all grade levels. 
-	
-            This Hackathon is aimed at designing effective technology-enhanced solutions for learners all around the world. The expected outcome is to produce ideas and concepts with a high impact on society as well as ready-to-be-developed solutions. 
-            "
-          /> */}
+            text="Fin-Tech"
+            para="Business Innovation in Digital Banking leveraging the power of Data and AI"
+          /> }
           <Trackcard
             headingBg={"bg-white-400"}
             borderBg={"border-white-400"}
             text="Fin-Tech"
-            para="This year we will looking at ecosystems of financial applications that are built on custom llm Models.
-
-            The main goal is to create an open-source, permissionless, and transparent financial service ecosystem that is available to everyone and operates without any central authority. In short, we can say it is available to everyone having internet connectivity.
-            
-            This is where you will unleash your skill. talent, amazing ideas, build teams and collaborate on game-changing products, disrupt the  industry and showcase your skill & talent. 
-            "
+            para="Business innovation and Fintech integrations by leveraging the power of Q2 "
           />
         </div>
         {/* <div className="flex flex-wrap justify-center p-4 gap-10">
@@ -63,21 +55,14 @@ export const Tracks = () => {
             skills, experiences, roles, points of view and needs, can contribute
             positively to the innovation process. Ideas do not come when we are
             bound to think, they come when we are free to think."
-          />
+          /> */
           <Trackcard
             headingBg={"bg-white-500"}
             borderBg={"border-white-500"}
-            text="Gaming"
-            para="The Gaming industry has come a long way since its inception in the
-            early 1990s. What started out as a small community of enthusiasts
-            playing simple games on their PCs has grown into a massive global
-            market, with revenues estimated to reach $128 billion by 2022.
-            This virtual hackathon is aimed at building unique and interesting
-            web/mobile games, create better gaming tools and carve out advanced
-            features.
-            This year, we have 4 amazing challenges: Gameplay AR/VR Experience, Blockchain Integration, Gamers in Creation, Play to Earn"
+            text="Fin-Tech"
+            para="How to keep businesses safe and secure with next-gen fraud & risk management"
           />
-        </div> */ }
+        </div>  }
       
       </div> 
     </div>
