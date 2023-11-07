@@ -38,9 +38,9 @@ export const Tracks = () => {
             illness. This year, we have 4 amazing challenges: Universal Access, Remote Patient Monitoring, Self Care and Active Living, Skills Shortage in Care Services"
           />
         </div>
-        
+        */
         <div className="flex flex-wrap justify-center p-4 gap-10">
-          <Trackcard
+          {/* <Trackcard
             headingBg={"bg-white-500"}
             borderBg={"border-white-500"}
             text="Open Innovation"
@@ -55,7 +55,7 @@ export const Tracks = () => {
             skills, experiences, roles, points of view and needs, can contribute
             positively to the innovation process. Ideas do not come when we are
             bound to think, they come when we are free to think."
-          /> */
+          />  */}
           <Trackcard
             headingBg={"bg-white-500"}
             borderBg={"border-white-500"}
