@@ -30,7 +30,7 @@ export const Timeline = () => {
               
             <TimelineCard
               heading={"Registration Starts"}
-              timing={"4th Nov 2023"}
+              timing={"7th Nov 2023"}
               dotColor={"bg-[#FFFFFF]"}
               E94336
             />
@@ -63,8 +63,8 @@ export const Timeline = () => {
               dotColor={"bg-[#FFFFFF]"}
             />
             <TimelineCard
-              heading={"Top 10 Team Announcement"}
-              timing={"5:30 PM to 6:00 PM"}
+              heading={"Top 15 Team Announcement"}
+              timing={"4:30 PM to 5:00 PM"}
               dotColor={"bg-[#FFFFFF]"}
             />
             
@@ -83,7 +83,7 @@ export const Timeline = () => {
             
             
             <TimelineCard
-              heading={"Team 10 Teams Check- In"}
+              heading={"Team 15 Teams Check- In"}
               timing={"9:00 AM to 10:00 AM"}
               dotColor={"bg-[#FFFFFF]"}
             />
