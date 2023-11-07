@@ -25,16 +25,11 @@ export const About = () => {
           to the issues at hand and share them with the rest of the world by
           bringing back the community of student developers together yet again.
         </p>
-        <p>GL Bajaj Institute of Technology and Management is the 6th Institute established under the prestigious banner of Rajeev Memorial Academic Welfare Society (Registered Under Societies Registration Act 1860). The institute is approved by All India Council for Technical Education (AICTE), Ministry of HRD, Govt. of India and Affiliated to Dr. A.P.J. Abdul Kalam Technical University (Formerly UPTU Lucknow).
+        {/* <p>GL Bajaj Institute of Technology and Management is the 6th Institute established under the prestigious banner of Rajeev Memorial Academic Welfare Society (Registered Under Societies Registration Act 1860). The institute is approved by All India Council for Technical Education (AICTE), Ministry of HRD, Govt. of India and Affiliated to Dr. A.P.J. Abdul Kalam Technical University (Formerly UPTU Lucknow).
 
 GL Bajaj Institute of Technology and Management is one of the quality driven Educational Institute in the Greater Noida/Delhi-NCR Region. GL Bajaj stands out as one of the best engineering and management college in UP. It also stands out in its approach to assist and equip the students for their overall development, giving them a strong foundation for a successful future. The institute offers B.Tech, MBA and MCA programs.{" "}
-        </p>
-        <p>
-          We organise various workshops and hackathons. Our goal is to build an inclusive community of
-          students who want to learn about tech and grow together
-          solving real world issues and improving the lives of everyone around
-          us.
-        </p>
+        </p> */}
+        
       </AboutRow>
     </div>
   );
