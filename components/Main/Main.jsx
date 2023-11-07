@@ -3,7 +3,7 @@ import Image from "next/image";
 import React from "react";
 import { ApplyWithDevfolioBtn } from "../ApplyWithDevfolioBtn/ApplyWithDevfolioBtn";
 import Logo from "../../public/images/Fin-X-Thon.png";
-import Pogo from "../../public/images/new.svg";
+import Pogo from "../../public/images/new.png";
 import DevfolioWhite from "../../public/images/devfolio-white.svg";
 import MainImage from "../../public/images/main-img.png";
 import { motion } from "framer-motion";
