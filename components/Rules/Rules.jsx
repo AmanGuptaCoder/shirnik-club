@@ -14,7 +14,7 @@ export const Rules = () => {
             forwarding all necessary information to his/her team.
           </li>
           <li>
-            Each team has to select 1 track of their choice out of the 4 given
+            Each team has to select 1 track of their choice out of the 3 given
             tracks and provide a problem statement relevant to that track while
             registering. No team can change their track and/or problem statement
             once registered.
