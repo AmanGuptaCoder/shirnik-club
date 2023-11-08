@@ -5,21 +5,20 @@ export const FAQ = () => {
   return (
     <div className="max-w-3xl mx-auto gap-10" id="faqs">
       <h1 className="text-center text-glow text-4xl md:text-6xl max-w-[15ch] mx-auto font-semibold text-white pb-8">
-        frequently asked questions
+        Frequently asked questions
       </h1>
       <div className="mx-auto rounded-2xl transition-all delay-100 ease-in my-12">
         <DisclosureComponent
           heading={"Where and how to register for Fin-X-Thon '23?"}
         >
-          <p>Registrations are being accepted via the Devfolio and Unstop website.</p>
+          <p>Registrations are being accepted via Unstop website.</p>
         </DisclosureComponent>
         <DisclosureComponent
           heading={"Do I need to pay a registration fee for the hackathon?"}
         >
           <p>
-            Like all our other events, Fin-X-Thon is also free-of-cost and you
-            don’t need to pay anything to register for it. We plan to keep all
-            of our future events free too.
+            Fin-X-Thon is free-of-cost and you
+            don’t need to pay anything to register for it.
           </p>
         </DisclosureComponent>
         <DisclosureComponent
@@ -72,7 +71,7 @@ export const FAQ = () => {
           heading={"Will there be a demonstration of my creation?"}
         >
           <p>
-            The top 15 teams, qualifying for the 2nd round will get the
+            The top 13 teams, qualifying for the 2nd round will get the
             opportunity to present their work/project to the judges.
           </p>
         </DisclosureComponent>
@@ -94,18 +93,20 @@ export const FAQ = () => {
           <p>
             Write to us at{" "}
             <a
-              href="mailto:cs20190@glbitm.ac.in"
+              href="mailto:shivani.garg@glbitm.ac.in"
               className="text-blue-400 hover:underline"
             >
-              cs20190@glbitm.ac.in
+              shivani.garg@glbitm.ac.in
             </a>{" "}
-            or DM us at{" "}
+            <p>
+            Write to us at{" "}
             <a
+              href="mailto:rajani.singh@glbitm.ac.in"
               className="text-blue-400 hover:underline"
-              href="https://www.instagram.com//"
             >
-              @Instagram
-            </a>
+              rajani.singh@glbitm.ac.in
+            </a>{" "}
+           
           </p>
         </DisclosureComponent>
       </div>
