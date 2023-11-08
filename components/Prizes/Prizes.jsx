@@ -17,7 +17,7 @@ export const Prizes = () => {
 
   return (
     <div>
-      <h1 className="text-center text-glow text-5xl md:text-6xl font-semibold text-white pb-14">
+      <h1 className="text-center text-glow text-5xl md:text-6xl font-semibold text-white pb-14" id ="prizes">
         Win exciting prizes!
       </h1>
       <motion.div
