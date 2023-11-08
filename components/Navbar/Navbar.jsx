@@ -28,7 +28,7 @@ export const Navbar = () => {
           >
             Timeline
           </a>
-          <a href="#special-prizes" className="border-b border-transparent hover:border-white">
+          <a href="#prizes" className="border-b border-transparent hover:border-white">
             Prizes
           </a>
           {/* <a href="#sponsors" className="border-b border-transparent hover:border-white">

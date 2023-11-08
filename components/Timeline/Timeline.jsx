@@ -16,7 +16,7 @@ export const Timeline = () => {
   return (
     <div className="mx-auto md:flex md:gap-20" id="timeline">
       <h1 className="text-center text-glow md:self-center text-5xl md:text-6xl font-semibold text-white pb-8">
-        timeline
+        Timeline
       </h1>
       <div>
         <div className="text-white mt-6 mx-auto" id="timeline">

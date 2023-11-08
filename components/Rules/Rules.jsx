@@ -4,7 +4,7 @@ export const Rules = () => {
   return (
     <div className="text-white flex flex-col justify-center w-full md:max-w-5xl mx-auto">
       <h1 className="text-center text-glow text-5xl md:text-6xl font-semibold text-white pb-8">
-        rules
+        Rules
       </h1>
       <div className="mx-4 md:my-12">
         <ul className="pl-10 text-xl font-Mori list-disc flex flex-col gap-4 max-w-3xl mx-auto leading-7 text-white/80">

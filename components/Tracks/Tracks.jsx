@@ -5,7 +5,7 @@ export const Tracks = () => {
   return (
     <div className="text-white">
       <h1 className="text-center text-glow text-5xl md:text-6xl font-semibold text-white pb-8">
-        tracks
+        Tracks
       </h1>
       <div className="flex flex-col my-12 flex-wrap gap-10">
         <div className="flex flex-wrap justify-center p-4 gap-10">
