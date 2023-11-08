@@ -42,29 +42,34 @@ export const Timeline = () => {
             <TimelineDay day={1} date={"29th Nov 2023"} />
             <TimelineCard
               heading={"Team Check-In and Opening Ceremony"}
-              timing={"9:00 AM to 10:00 AM"}
+              timing={"9:00 AM to 9:30 AM"}
+              dotColor={"bg-[#FFFFFF]"}
+            />
+             <TimelineCard
+              heading={"Company Intro & Presentation"}
+              timing={"9:30 AM to 10:30 AM"}
               dotColor={"bg-[#FFFFFF]"}
             />
             
             <TimelineCard
-              heading={"Hacking Starts!"}
-              timing={"10:00 AM onwards"}
+              heading={"Idea Presentation with Prototype Demonstration!"}
+              timing={"10:30 AM onwards"}
               dotColor={"bg-[#FFFFFF]"}
             />
             
             <TimelineCard
-              heading={"Lunch"}
+              heading={"Break"}
+              timing={"1:30 PM to 2:00 PM onwards"}
+              dotColor={"bg-[#FFFFFF]"}
+            />
+            <TimelineCard
+              heading={"Presentation Resumes"}
               timing={"2:00 PM onwards"}
               dotColor={"bg-[#FFFFFF]"}
             />
             <TimelineCard
-              heading={"Elimination Round"}
-              timing={"4:00 PM onwards"}
-              dotColor={"bg-[#FFFFFF]"}
-            />
-            <TimelineCard
-              heading={"Top 15 Team Announcement"}
-              timing={"4:30 PM to 5:00 PM"}
+              heading={"Top 13 Team Announcement"}
+              timing={"4:00 PM"}
               dotColor={"bg-[#FFFFFF]"}
             />
             
@@ -83,14 +88,14 @@ export const Timeline = () => {
             
             
             <TimelineCard
-              heading={"Team 15 Teams Check- In"}
-              timing={"9:00 AM to 10:00 AM"}
+              heading={"Team 13 Teams Check- In"}
+              timing={"9:00 AM to 9:30 AM"}
               dotColor={"bg-[#FFFFFF]"}
             />
             
             <TimelineCard
-              heading={"Final Presentation"}
-              timing={"10:00 AM to 12:00 AM"}
+              heading={"Final Presentation Start"}
+              timing={"9:30 AM"}
               dotColor={"bg-[#FFFFFF]"}
             />
             {/* <TimelineCard
@@ -99,8 +104,13 @@ export const Timeline = () => {
               dotColor={"bg-[#FFFFFF]"}
             /> */}
             <TimelineCard
-              heading={"Felicitaion of Winners"}
-              timing={"1:00 PM to 2:00 PM"}
+              heading={"Lunch"}
+              timing={"12:30 PM to 1:30 PM"}
+              dotColor={"bg-[#FFFFFF]"}
+            />
+              <TimelineCard
+              heading={"Winners Announcement"}
+              timing={"1:30 PM to 2:30 PM"}
               dotColor={"bg-[#FFFFFF]"}
             />
             
