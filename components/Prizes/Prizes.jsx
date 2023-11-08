@@ -1,5 +1,6 @@
 import React from "react";
 import { PrizeCard } from "./PrizeCard";
+import { PrizeCard } from "./PrizeCard1";
 import { PrizeCardWithTextOnly } from "./PrizeCardWithTextOnly";
 import { motion } from "framer-motion";
 
@@ -44,14 +45,15 @@ export const Prizes = () => {
           amount={"50000"}
           img={"/images/trophy-bronze.png"}
         />
-        
-    
-              </motion.div>
-              <PrizeCard
+              <PrizeCard1
           bgColor={"bg-[#ffffff]"}
           heading={"Goodies For Top 10 Teams"}
           img={"/images/trophy-bronze.png"}
         /> 
+        
+    
+              </motion.div>
+        
     </div>
   );
 };

@@ -98,8 +98,7 @@ export const FAQ = () => {
             >
               shivani.garg@glbitm.ac.in
             </a>{" "}
-            </p>
-            <p>
+            or 
             <a
               href="mailto:rajani.singh@glbitm.ac.in"
               className="text-blue-400 hover:underline"
