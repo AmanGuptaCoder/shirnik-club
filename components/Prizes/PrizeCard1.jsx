@@ -3,7 +3,7 @@ import React from "react";
 import Medal from "../../public/images/trophy-gold.png";
 
 import { motion } from "framer-motion";
-export const PrizeCard = ({ bgColor, heading, amount, img }) => {
+export const PrizeCard1 = ({ bgColor, heading, amount, img }) => {
   const item = {
     hidden: { opacity: 0 },
     show: { opacity: 1 },

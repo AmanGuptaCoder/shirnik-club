@@ -1,6 +1,6 @@
 import React from "react";
 import { PrizeCard } from "./PrizeCard";
-import { PrizeCard } from "./PrizeCard1";
+import { PrizeCard1 } from "./PrizeCard1";
 import { PrizeCardWithTextOnly } from "./PrizeCardWithTextOnly";
 import { motion } from "framer-motion";
 
