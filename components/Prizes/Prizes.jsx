@@ -17,7 +17,7 @@ export const Prizes = () => {
   return (
     <div>
       <h1 className="text-center text-glow text-5xl md:text-6xl font-semibold text-white pb-14">
-        win exciting prizes!
+        Win exciting prizes!
       </h1>
       <motion.div
         initial="hidden"
@@ -45,12 +45,13 @@ export const Prizes = () => {
           img={"/images/trophy-bronze.png"}
         />
         
-     <PrizeCard
+    
+              </motion.div>
+              <PrizeCard
           bgColor={"bg-[#ffffff]"}
           heading={"Goodies For Top 10 Teams"}
           img={"/images/trophy-bronze.png"}
         /> 
-              </motion.div>
     </div>
   );
 };
