@@ -25,7 +25,7 @@ export const Footer = () => {
           <span className="text-sm">powered by</span>
           <div className="flex items-center gap-1">
             
-            <p>Q2 Company | GLBITM</p>
+            <p>Q2 Software | Department of Information and Technology, GLBITM</p>
           </div>
         </div>
       </div>

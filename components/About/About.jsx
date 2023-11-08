@@ -9,12 +9,12 @@ export const About = () => {
       
       
       <AboutRow
-        heading={"About Fin-X-Thon 1.0| GLBITM"}
+        heading={"About Fin-X-Thon 1.0 GLBITM"}
         img={"./images/gl.png"}
         isReverse
       >
              <p>
-          Our hackathon, Fin-X-Thon is ready for it&apos;s 2023 edition. 
+          Our hackathon, Fin-X-Thon is ready for making the Fin-Tech to the next level. 
 We invite you to imagine a world where everyone, everywhere had access to financial services that met their needs and helped them create better lives.
 
         </p>
